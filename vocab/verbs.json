@@ -1,0 +1,67 @@
+{
+  "term_tag": "Verb",
+  "defn_tag": "Verbo",
+  "data": [
+    {"term":"Be (permanent)","defn":"Ser","comment":"Sou/Fui\nÉ/Foi\nSomos\nSão/Eram","printed":false},
+    {"term":"Be (temporary)","defn":"Estar","comment":"Estou/Estive\nEstá/Esteve\nEstamos\nEstão/Estavam","printed":false},
+    {"term":"Have","defn":"Ter","comment":"Tenho/Tive\nTem/Teve\nTemos\nTêm/Tinham","printed":false},
+    {"term":"Go","defn":"Ir","comment":"Vou/Fui\nVai/Foi\nVamos\nVão/Iam","printed":false},
+    {"term":"Come","defn":"Vir","comment":"Venho/Vim\nVem/Veio\nVimos\nVêm/Vinham","printed":false},
+    {"term":"Stay","defn":"Ficar","comment":"Fico/Fiquei\nFica/Ficou\nFicamos\nFicam/Ficavam","printed":false},
+    {"term":"Return","defn":"Voltar","comment":"Volto/Voltei\nVolta/Voltou\nVoltamos\nVoltam/Voltavam","printed":false},
+
+    {"term":"Do / Make","defn":"Fazer","comment":"Faço/Fiz\nFaz/Fez\nFazemos\nFazem/Faziam","printed":false},
+    {"term":"Put","defn":"Pôr","comment":"Ponho/Pus\nPõe/Pôs\nPomos\nPõem/Punham","printed":false},
+    {"term":"Take / Get","defn":"Levar","comment":"Levo/Levei\nLeva/Levou\nLevamos\nLevam/Levavam","printed":false},
+    {"term":"Bring","defn":"Trazer","comment":"Trago/Trouxe\nTraz/Trouxe\nTrazemos\nTrazem/Traziam","printed":false},
+    {"term":"Give","defn":"Dar","comment":"Dou/Dei\nDá/Deu\nDamos\nDão/Davam","printed":false},
+    {"term":"Remove","defn":"Remover","comment":"Removo/Removi\nRemove/Removeu\nRemovemos\nRemovem/Removiam","printed":false},
+
+    {"term":"Work","defn":"Trabalhar","comment":"Trabalho/Trabalhei\nTrabalha/Trabalhou\nTrabalhamos\nTrabalham/Trabalhavam","printed":false},
+    {"term":"Use","defn":"Usar","comment":"Uso/Usei\nUsa/Usou\nUsamos\nUsam/Usavam","printed":false},
+    {"term":"Need","defn":"Precisar","comment":"Preciso/Precisei\nPrecisa/Precisou\nPrecisamos\nPrecisam/Precisavam","printed":false},
+    {"term":"Want","defn":"Querer","comment":"Quero/Quis\nQuer/Quis\nQueremos\nQuerem/Queriam","printed":false},
+    {"term":"Try","defn":"Tentar","comment":"Tento/Tentei\nTenta/Tentou\nTentamos\nTentam/Tentavam","printed":false},
+    {"term":"Start","defn":"Começar","comment":"Começo/Comecei\nComeça/Começou\nComeçamos\nComeçam/Começavam","printed":false},
+    {"term":"Finish","defn":"Terminar","comment":"Termino/Terminei\nTermina/Terminou\nTerminamos\nTerminam/Terminavam","printed":false},
+
+    {"term":"Eat","defn":"Comer","comment":"Como/Comi\nCome/Comeu\nComemos\nComem/Comiam","printed":false},
+    {"term":"Drink","defn":"Beber","comment":"Bebo/Bebi\nBebe/Bebeu\nBebemos\nBebem/Bebiam","printed":false},
+    {"term":"Sleep","defn":"Dormir","comment":"Durmo/Dormi\nDorme/Dormiu\nDormimos\nDormem/Dormiam","printed":false},
+    {"term":"Relax","defn":"Relaxar","comment":"Relaxo/Relaxe\nRelaxa/Relaxou\nRelaxamos\nRelaxam/Relaxavam","printed":false},
+    {"term":"Hurt","defn":"Machucar","comment":"Machuco/Machuquei\nMachuca/Machucou\nMachucamos\nMachucam/Machucavam","printed":false},
+
+    {"term":"See","defn":"Ver","comment":"Vejo/Vi\nVê/Viu\nVemos\nVeem/Viam","printed":false},
+    {"term":"Hear","defn":"Ouvir","comment":"Ouço/Ouvi\nOuve/Ouviu\nOuvimos\nOuvem/Ouviam","printed":false},
+    {"term":"Find","defn":"Achar","comment":"Acho/Achei\nAcha/Achou\nAchamos\nAcham/Achavam","printed":false},
+    {"term":"Meet","defn":"Encontrar","comment":"Encontro/Encontrei\nEncontra/Encontrou\nEncontramos\nEncontram/Encontravam","printed":false},
+
+    {"term":"Speak","defn":"Falar","comment":"Falo/Falei\nFala/Falou\nFalamos\nFalam/Falavam","printed":false},
+    {"term":"Say / Tell","defn":"Dizer","comment":"Digo/Disse\nDiz/Disse\nDizemos\nDizem/Diziam","printed":false},
+    {"term":"Ask","defn":"Pedir","comment":"Peço/Pedi\nPede/Pediu\nPedimos\nPedem/Pediam","printed":false},
+    {"term":"Teach","defn":"Ensinar","comment":"Ensino/Ensinei\nEnsina/Ensinou\nEnsinamos\nEnsinam/Ensinavam","printed":false},
+    {"term":"Yell","defn":"Gritar","comment":"Grito/Gritei\nGrita/Gritou\nGritamos\nGritam/Gritavam","printed":false},
+    {"term":"Whisper","defn":"Sussurrar","comment":"Sussurro/Sussurrei\nSussurra/Sussurrou\nSussurramos\nSussurram/Sussurravam","printed":false},
+
+    {"term":"Know (fact)","defn":"Saber","comment":"Sei/Soube\nSabe/Soube\nSabemos\nSabem/Sabiam","printed":false},
+    {"term":"Know (person/place)","defn":"Conhecer","comment":"Conheço/Conheci\nConhece/Conheceu\nConhecemos\nConhecem/Conheciam","printed":false},
+    {"term":"Think","defn":"Pensar","comment":"Penso/Pensei\nPensa/Pensou\nPensamos\nPensam/Pensavam","printed":false},
+    {"term":"Believe","defn":"Acreditar","comment":"Acredito/Acreditei\nAcredita/Acreditou\nAcreditamos\nAcreditam/Acreditavam","printed":false},
+    {"term":"Remember","defn":"Lembrar","comment":"Lembro/Lembrei\nLembra/Lembrou\nLembramos\nLembram/Lembravam","printed":false},
+    {"term":"Forget","defn":"Esquecer","comment":"Esqueço/Esqueci\nEsquece/Esqueceu\nEsquecemos\nEsquecem/Esqueciam","printed":false},
+
+    {"term":"Like","defn":"Gostar","comment":"Gosto/Gostei\nGosta/Gostou\nGostamos\nGostam/Gostavam","printed":false},
+    {"term":"Dislike","defn":"Desgostar","comment":"Desgosto/Desgostei\nDesgosta/Desgostou\nDesgostamos\nDesgostam/Desgostavam","printed":false},
+    {"term":"Love","defn":"Amar","comment":"Amo/Amei\nAma/Amou\nAmamos\nAmam/Amavam","printed":false},
+    {"term":"Hate","defn":"Odiar","comment":"Odeio/Odiei\nOdeia/Odiou\nOdiamos\nOdeiam/Odiavam","printed":false},
+    {"term":"Miss (someone)","defn":"Sentir falta","comment":"Sinto falta/Senti falta\nSente falta/Sentiu falta\nSentimos falta\nSentem falta/Sentiam falta","printed":false},
+
+    {"term":"Win","defn":"Ganhar","comment":"Ganho/Ganhei\nGanha/Ganhou\nGanhamos\nGanham/Ganhavam","printed":false},
+    {"term":"Lose","defn":"Perder","comment":"Perco/Perdi\nPerde/Perdeu\nPerdemos\nPerdem/Perdiam","printed":false},
+    {"term":"Succeed","defn":"Ter sucesso","comment":"Tenho sucesso/Tive sucesso\nTem sucesso/Teve sucesso\nTemos sucesso\nTêm sucesso/Tinham sucesso","printed":false},
+    {"term":"Fail","defn":"Fracassar","comment":"Fracasso/Fracassei\nFracassa/Fracassou\nFracassamos\nFracassam/Fracassavam","printed":false},
+    {"term":"Experiment","defn":"Experimentar","comment":"Experimento/Experimentei\nExperimenta/Experimentou\nExperimentamos\nExperimentam/Experimentavam","printed":false},
+
+    {"term":"Research","defn":"Pesquisar","comment":"Pesquiso/Pesquisei\nPesquisa/Pesquisou\nPesquisamos\nPesquisam/Pesquisavam","printed":false}
+  ]
+}
