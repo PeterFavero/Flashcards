@@ -73,6 +73,8 @@
     {"term":"Forget","defn":"Esquecer","comment":"Esqueço/Esqueci\nEsquece/Esqueceu\nEsquecemos\nEsquecem/Esqueciam","printed":false},
     {"term":"Learn","defn":"Aprender","comment":"Aprendo/Aprendi\nAprende/Aprendeu\nAprendemos\nAprendem/Aprendiam","printed":false},
     {"term":"Understand","defn":"Entender","comment":"Entendo/Entendi\nEntende/Entendeu\nEntendemos\nEntendem/Entendiam","printed":false},
+    {"term":"Agree","defn":"Concordar","comment":"Concordo/Concordei\nConcorda/Concordou\nConcordamos\nConcordam/Concordavam","printed":false},
+    {"term":"Disagree","defn":"Discordar","comment":"Discordo/Discordei\nDiscorda/Discordou\nDiscordamos\nDiscordam/Discordavam","printed":false},
 
     {"term":"Like","defn":"Gostar","comment":"Gosto/Gostei\nGosta/Gostou\nGostamos\nGostam/Gostavam","printed":false},
     {"term":"Dislike","defn":"Desgostar","comment":"Desgosto/Desgostei\nDesgosta/Desgostou\nDesgostamos\nDesgostam/Desgostavam","printed":false},
@@ -81,15 +83,20 @@
     {"term":"Miss (someone)","defn":"Sentir falta","comment":"Sinto falta/Senti falta\nSente falta/Sentiu falta\nSentimos falta\nSentem falta/Sentiam falta","printed":false},
     {"term":"Hope","defn":"Esperar","comment":"Espero/Esperei\nEspera/Esperou\nEsperamos\nEsperam/Esperavam","printed":false},
     {"term":"Fear","defn":"Temer","comment":"Temo/Temi\nTeme/Temeu\nTememos\nTemem/Temiam","printed":false},
+    {"term":"Care (about)","defn":"Se importar (com)","comment":"Me importo/Me importei\nSe importa/Se importou\nNos importamos\nSe importam/Se importavam","printed":false},
+    {"term":"Despise","defn":"Desprezar","comment":"Desprezo/Desprezei\nDespreza/Desprezou\nDesprezamos\nDesprezam/Desprezavam","printed":false},
+    {"term":"Ignore","defn":"Ignorar","comment":"Ignoro/Ignorei\nIgnora/Ignorou\nIgnoramos\nIgnoram/Ignoravam","printed":false},
 
     {"term":"Win","defn":"Ganhar","comment":"Ganho/Ganhei\nGanha/Ganhou\nGanhamos\nGanham/Ganhavam","printed":false},
     {"term":"Lose","defn":"Perder","comment":"Perco/Perdi\nPerde/Perdeu\nPerdemos\nPerdem/Perdiam","printed":false},
-    {"term":"Succeed","defn":"Ter sucesso","comment":"Tenho sucesso/Tive sucesso\nTem sucesso/Teve sucesso\nTemos sucesso\nTêm sucesso/Tinham sucesso","printed":false},
+    {"term":"Succeed","defn":"Conseguir","comment":"Consigo/Consegui\nConsegue/Conseguiu\nConseguimos\nConseguem/Conseguiam","printed":false},
     {"term":"Fail","defn":"Fracassar","comment":"Fracasso/Fracassei\nFracassa/Fracassou\nFracassamos\nFracassam/Fracassavam","printed":false},
     {"term":"Change","defn":"Mudar","comment":"Mudo/Mudei\nMuda/Mudou\nMudamos\nMudam/Mudavam","printed":false},
     {"term":"Turn / Become","defn":"Virar","comment":"Viro/Virei\nVira/Virou\nViramos\nViram/Viravam","printed":false},
     {"term":"Improve","defn":"Melhorar","comment":"Melhoro/Melhorei\nMelhora/Melhorou\nMelhoramos\nMelhoram/Melhoravam","printed":false},
     {"term":"Worsen","defn":"Piorar","comment":"Pioro/Piorei\nPiora/Piorou\nPioramos\nPioram/Pioravam","printed":false},
+    {"term":"Start to / Begin to","defn":"Passar a","comment":"Passo a/Passei a\nPassa a/Passou a\nPassamos a\nPassam a/Passavam a","printed":false},
+    {"term":"Fail to / Stop doing","defn":"Deixar de","comment":"Deixo de/Deixei de\nDeixa de/Deixou de\nDeixamos de\nDeixam de/Deixavam de","printed":false},
 
     {"term":"Hit (object)","defn":"Acertar","comment":"Acerto/Acertei\nAcerta/Acertou\nAcertamos\nAcertam/Acertavam","printed":false},
     {"term":"Miss (object)","defn":"Errar","comment":"Erro/Errei\nErra/Errou\nErramos\nErram/Erravam","printed":false},
@@ -101,6 +108,9 @@
     {"term":"Score","defn":"Marcar","comment":"Marco/Marquei\nMarca/Marcou\nMarcamos\nMarcam/Marcavam","printed":false},
     {"term":"Defend","defn":"Defender","comment":"Defendo/Defendi\nDefende/Defendeu\nDefendemos\nDefendem/Defendiam","printed":false},
 
+    {"term":"Guess / Imagine","defn":"Imaginar","comment":"Imagino/Imaginei\nImagina/Imaginou\nImaginamos\nImaginam/Imaginavam","printed":false},
+    {"term":"Suppose","defn":"Supor","comment":"Suponho/Supus\nSupõe/Supôs\nSupomos\nSupõem/Supunham","printed":false},
+    {"term":"Hypothesize","defn":"Hipotetizar","comment":"Hipotetizo/Hipotetizei\nHipotetiza/Hipotetizou\nHipotetizamos\nHipotetizam/Hipotetizavam","printed":false},
     {"term":"Experiment","defn":"Experimentar","comment":"Experimento/Experimentei\nExperimenta/Experimentou\nExperimentamos\nExperimentam/Experimentavam","printed":false},
     {"term":"Research","defn":"Pesquisar","comment":"Pesquiso/Pesquisei\nPesquisa/Pesquisou\nPesquisamos\nPesquisam/Pesquisavam","printed":false},
     {"term":"Test","defn":"Testar","comment":"Testo/Testei\nTesta/Testou\nTestamos\nTestam/Testavam","printed":false},
@@ -127,6 +137,10 @@
     {"term":"Rob","defn":"Assaltar","comment":"Assalto/Assaltei\nAssalta/Assaltou\nAssaltamos\nAssaltam/Assaltavam","printed":false},
     {"term":"Steal","defn":"Roubar","comment":"Roubo/Roubei\nRouba/Roubou\nRoubamos\nRoubam/Roubavam","printed":false},
     {"term":"Police","defn":"Policiar","comment":"Policio/Policiei\nPolicia/Policiou\nPoliciamos\nPoliciam/Policiavam","printed":false},
-    {"term":"Monitor","defn":"Monitorar","comment":"Monitoro/Monitorei\nMonitora/Monitorou\nMonitoramos\nMonitoram/Monitoravam","printed":false}
+    {"term":"Monitor","defn":"Monitorar","comment":"Monitoro/Monitorei\nMonitora/Monitorou\nMonitoramos\nMonitoram/Monitoravam","printed":false},
+
+    {"term":"Deal with","defn":"Lidar (com)","comment":"Lido/Lidei\nLida/Lidou\nLidamos\nLidam/Lidavam","printed":false},
+    {"term":"Hang out / Go out with","defn":"Sair com","comment":"Saio com/Saí com\nSai com/Saiu com\nSaímos com\nSaem com/Saíam com","printed":false},
+    {"term":"Wait (for)","defn":"Esperar","comment":"Espero/Esperei\nEspera/Esperou\nEsperamos\nEsperam/Esperavam","printed":false}
   ]
 }
