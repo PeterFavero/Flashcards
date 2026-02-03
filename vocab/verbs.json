@@ -44,6 +44,10 @@
 
     {"term":"Eat","defn":"Comer","comment":"Como/Comi\nCome/Comeu\nComemos\nComem/Comiam","printed":false},
     {"term":"Drink","defn":"Beber","comment":"Bebo/Bebi\nBebe/Bebeu\nBebemos\nBebem/Bebiam","printed":false},
+    {"term":"Have lunch","defn":"Almoçar","comment":"Almoço/Almocei\nAlmoça/Almoçou\nAlmoçamos\nAlmoçam/Almoçavam","printed":false},
+    {"term":"Have dinner","defn":"Jantar","comment":"Janto/Jantei\nJanta/Jantou\nJantamos\nJantam/Jantavam","printed":false},
+    {"term":"Snack","defn":"Lanchar","comment":"Lancho/Lanchei\nLancha/Lanchou\nLanchamos\nLancham/Lanchavam","printed":false},
+
     {"term":"Sleep","defn":"Dormir","comment":"Durmo/Dormi\nDorme/Dormiu\nDormimos\nDormem/Dormiam","printed":false},
     {"term":"Relax","defn":"Relaxar","comment":"Relaxo/Relaxe\nRelaxa/Relaxou\nRelaxamos\nRelaxam/Relaxavam","printed":false},
     {"term":"Rest","defn":"Descansar","comment":"Descanso/Descansei\nDescansa/Descansou\nDescansamos\nDescansam/Descansavam","printed":false},
