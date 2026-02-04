@@ -3,6 +3,12 @@
   "defn_tag": "Verbo",
   "data": [
     {
+      "term": "Accelerate",
+      "defn": "Acelerar",
+      "comment": "Acelero/Acelerei\nAcelera/Acelerou\nAceleramos\nAceleram/Aceleravam",
+      "printed": false
+    },
+    {
       "term": "Agree",
       "defn": "Concordar",
       "comment": "Concordo/Concordei\nConcorda/Concordou\nConcordamos\nConcordam/Concordavam",
@@ -45,6 +51,12 @@
       "printed": false
     },
     {
+      "term": "Bake",
+      "defn": "Assar",
+      "comment": "Asso/Assei\nAssa/Assou\nAssamos\nAssam/Assavam",
+      "printed": false
+    },
+    {
       "term": "Be (permanent)",
       "defn": "Ser",
       "comment": "Sou/Fui\nÉ/Foi\nSomos\nSão/Eram",
@@ -69,15 +81,45 @@
       "printed": false
     },
     {
+      "term": "Boil",
+      "defn": "Ferver",
+      "comment": "Fervo/Fervi\nFerve/Ferveu\nFervemos\nFervem/Ferviam",
+      "printed": false
+    },
+    {
+      "term": "Brake (vehicle)",
+      "defn": "Frear",
+      "comment": "Freio/Freei\nFreia/Freou\nFreamos\nFreiam/Freavam",
+      "printed": false
+    },
+    {
       "term": "Bring",
       "defn": "Trazer",
       "comment": "Trago/Trouxe\nTraz/Trouxe\nTrazemos\nTrazem/Traziam",
       "printed": false
     },
     {
+      "term": "Brush (teeth/hair)",
+      "defn": "Escovar",
+      "comment": "Escovo/Escovei\nEscova/Escovou\nEscovamos\nEscovam/Escovavam",
+      "printed": false
+    },
+    {
+      "term": "Call",
+      "defn": "Ligar",
+      "comment": "Ligo/Liguei\nLiga/Ligou\nLigamos\nLigam/Ligavam",
+      "printed": false
+    },
+    {
       "term": "Care (about)",
       "defn": "Se importar (com)",
       "comment": "Me importo/Me importei\nSe importa/Se importou\nNos importamos\nSe importam/Se importavam",
+      "printed": false
+    },
+    {
+      "term": "Care (for)",
+      "defn": "Cuidar (de)",
+      "comment": "Cuido/Cuidei\nCuida/Cuidou\nCuidamos\nCuidam/Cuidavam",
       "printed": false
     },
     {
@@ -99,15 +141,57 @@
       "printed": false
     },
     {
+      "term": "Chop",
+      "defn": "Picar",
+      "comment": "Pico/Piquei\nPica/Picou\nPicamos\nPicam/Picavam",
+      "printed": false
+    },
+    {
+      "term": "Clean",
+      "defn": "Limpar",
+      "comment": "Limpo/Limpei\nLimpa/Limpou\nLimpamos\nLimpam/Limpavam",
+      "printed": false
+    },
+    {
+      "term": "Close",
+      "defn": "Fechar",
+      "comment": "Fecho/Fechei\nFecha/Fechou\nFechamos\nFecham/Fechavam",
+      "printed": false
+    },
+    {
       "term": "Come",
       "defn": "Vir",
       "comment": "Venho/Vim\nVem/Veio\nVimos\nVêm/Vinham",
       "printed": false
     },
     {
+      "term": "Comfort",
+      "defn": "Consolar",
+      "comment": "Consolo/Consolei\nConsola/Consolou\nConsolamos\nConsolam/Consolavam",
+      "printed": false
+    },
+    {
       "term": "Continue",
       "defn": "Continuar",
       "comment": "Continuo/Continuei\nContinua/Continuou\nContinuamos\nContinuam/Continuavam",
+      "printed": false
+    },
+    {
+      "term": "Cook",
+      "defn": "Cozinhar",
+      "comment": "Cozinho/Cozinhei\nCozinha/Cozinhou\nCozinhamos\nCozinham/Cozinhavam",
+      "printed": false
+    },
+    {
+      "term": "Cool (down)",
+      "defn": "Esfriar",
+      "comment": "Esfrio/Esfriei\nEsfria/Esfriou\nEsfriamos\nEsfriam/Esfriavam",
+      "printed": false
+    },
+    {
+      "term": "Cut",
+      "defn": "Cortar",
+      "comment": "Corto/Cortei\nCorta/Cortou\nCortamos\nCortam/Cortavam",
       "printed": false
     },
     {
@@ -147,9 +231,21 @@
       "printed": false
     },
     {
+      "term": "Dirty",
+      "defn": "Sujar",
+      "comment": "Sujo/Sujei\nSuja/Sujou\nSujamos\nSujam/Sujavam",
+      "printed": false
+    },
+    {
       "term": "Disagree",
       "defn": "Discordar",
       "comment": "Discordo/Discordei\nDiscorda/Discordou\nDiscordamos\nDiscordam/Discordavam",
+      "printed": false
+    },
+    {
+      "term": "Disappoint",
+      "defn": "Decepcionar",
+      "comment": "Decepciono/Decepcionei\nDecepciona/Decepcionou\nDecepcionamos\nDecepcionam/Decepcionavam",
       "printed": false
     },
     {
@@ -165,9 +261,27 @@
       "printed": false
     },
     {
+      "term": "Doubt",
+      "defn": "Duvidar",
+      "comment": "Duvido/Duvidei\nDuvida/Duvidou\nDuvidamos\nDuvidam/Duvidavam",
+      "printed": false
+    },
+    {
       "term": "Drink",
       "defn": "Beber",
       "comment": "Bebo/Bebi\nBebe/Bebeu\nBebemos\nBebem/Bebiam",
+      "printed": false
+    },
+    {
+      "term": "Drive (movement or concept)",
+      "defn": "Impulsionar",
+      "comment": "Impulsiono/Impulsionei\nImpulsiona/Impulsionou\nImpulsionamos\nImpulsionam/Impulsionavam",
+      "printed": false
+    },
+    {
+      "term": "Drive (vehicle)",
+      "defn": "Dirigir",
+      "comment": "Dirijo/Dirigi\nDirige/Dirigiu\nDirigimos\nDirigem/Dirigiam",
       "printed": false
     },
     {
@@ -177,9 +291,45 @@
       "printed": false
     },
     {
+      "term": "Dry",
+      "defn": "Secar",
+      "comment": "Seco/Sequei\nSeca/Secou\nSecamos\nSecam/Secavam",
+      "printed": false
+    },
+    {
+      "term": "Dust",
+      "defn": "Tirar o pó",
+      "comment": "Tiro o pó/Tirei o pó\nTira o pó/Tirou o pó\nTiramos o pó\nTiram o pó/Tiravam o pó",
+      "printed": false
+    },
+    {
       "term": "Eat",
       "defn": "Comer",
       "comment": "Como/Comi\nCome/Comeu\nComemos\nComem/Comiam",
+      "printed": false
+    },
+    {
+      "term": "Encourage",
+      "defn": "Incentivar",
+      "comment": "Incentivo/Incentivei\nIncentiva/Incentivou\nIncentivamos\nIncentivam/Incentivavam",
+      "printed": false
+    },
+    {
+      "term": "Engage",
+      "defn": "Engajar",
+      "comment": "[Engajo/Engajei\nEngaja/Engajou\nEngajamos\nEngajam/Engajavam]",
+      "printed": false
+    },
+    {
+      "term": "Engage (audience/users)",
+      "defn": "Engajar",
+      "comment": "Engajo/Engajei\nEngaja/Engajou\nEngajamos\nEngajam/Engajavam",
+      "printed": false
+    },
+    {
+      "term": "Enjoy",
+      "defn": "Aproveitar",
+      "comment": "Aproveito/Aproveitei\nAproveita/Aproveitou\nAproveitamos\nAproveitam/Aproveitavam",
       "printed": false
     },
     {
@@ -189,9 +339,21 @@
       "printed": false
     },
     {
+      "term": "Entertain",
+      "defn": "Entreter",
+      "comment": "Entertenho/Entretive\nEntretém/Entreteve\nEntretémos\nEntretêm/Entretiam",
+      "printed": false
+    },
+    {
       "term": "Escape",
       "defn": "Escapar",
       "comment": "Escapo/Escapei\nEscapa/Escapou\nEscapamos\nEscapam/Escapavam",
+      "printed": false
+    },
+    {
+      "term": "Excite",
+      "defn": "Empolgar",
+      "comment": "Empolgo/Empolguei\nEmpolga/Empolgou\nEmpolgamos\nEmpolgam/Empolgavam",
       "printed": false
     },
     {
@@ -225,6 +387,12 @@
       "printed": false
     },
     {
+      "term": "Fasten / Arrest / Detain / Imprison",
+      "defn": "Prender",
+      "comment": "Prendo/Prendi\nPrende/Prendeu\nPrendemos\nPrendem/Prendiam",
+      "printed": false
+    },
+    {
       "term": "Fear",
       "defn": "Temer",
       "comment": "Temo/Temi\nTeme/Temeu\nTememos\nTemem/Temiam",
@@ -232,6 +400,12 @@
     },
     {
       "term": "Fight",
+      "defn": "Lutar",
+      "comment": "[Luto/Lutei\nLuta/Lutou\nLutamos\nLutam/Lutavam]",
+      "printed": false
+    },
+    {
+      "term": "Fight  Struggle",
       "defn": "Lutar",
       "comment": "Luto/Lutei\nLuta/Lutou\nLutamos\nLutam/Lutavam",
       "printed": false
@@ -255,6 +429,12 @@
       "printed": false
     },
     {
+      "term": "Fold",
+      "defn": "Dobrar",
+      "comment": "Dobro/Dobrei\nDobra/Dobrou\nDobramos\nDobram/Dobravam",
+      "printed": false
+    },
+    {
       "term": "Follow",
       "defn": "Seguir",
       "comment": "Sigo/Segui\nSegue/Seguiu\nSeguimos\nSeguem/Seguiam",
@@ -273,6 +453,30 @@
       "printed": false
     },
     {
+      "term": "Forgive",
+      "defn": "Perdoar",
+      "comment": "Perdoo/Perdoei\nPerdoa/Perdoou\nPerdoamos\nPerdoam/Perdoavam",
+      "printed": false
+    },
+    {
+      "term": "Free (something)",
+      "defn": "Libertar",
+      "comment": "Liberto/Libertei\nLiberta/Libertou\nLibertamos\nLibertam/Libertavam",
+      "printed": false
+    },
+    {
+      "term": "Freeze",
+      "defn": "Congelar",
+      "comment": "Congelo/Congelei\nCongela/Congelou\nCongelamos\nCongelam/Congelavam",
+      "printed": false
+    },
+    {
+      "term": "Fry",
+      "defn": "Fritar",
+      "comment": "Frito/Fritei\nFrita/Fritou\nFritamos\nFritam/Fritavam",
+      "printed": false
+    },
+    {
       "term": "Fuck",
       "defn": "Foder",
       "comment": "Fodo/Fodi\nFode/Fodeu\nFodemos\nFodem/Fodiam",
@@ -282,6 +486,12 @@
       "term": "Get / Obtain",
       "defn": "Conseguir",
       "comment": "Consigo/Consegui\nConsegue/Conseguiu\nConseguimos\nConseguem/Conseguiam",
+      "printed": false
+    },
+    {
+      "term": "Get up",
+      "defn": "Levantar-se",
+      "comment": "Me levanto/Me levantei\nSe levanta/Se levantou\nNos levantamos\nSe levantam/Se levantavam",
       "printed": false
     },
     {
@@ -297,9 +507,21 @@
       "printed": false
     },
     {
+      "term": "Ground (movement or concept)",
+      "defn": "Aterrar",
+      "comment": "Aterro/Aterrei\nAterra/Aterrou\nAterramos\nAterram/Aterravam",
+      "printed": false
+    },
+    {
       "term": "Guess / Imagine",
       "defn": "Imaginar",
       "comment": "Imagino/Imaginei\nImagina/Imaginou\nImaginamos\nImaginam/Imaginavam",
+      "printed": false
+    },
+    {
+      "term": "Hang (clothes)",
+      "defn": "Pendurar",
+      "comment": "Pendur o/Pendurei\nPendura/Pendurou\nPenduramos\nPenduram/Penduravam",
       "printed": false
     },
     {
@@ -345,9 +567,33 @@
       "printed": false
     },
     {
+      "term": "Heat (up)",
+      "defn": "Esquentar",
+      "comment": "Esquento/Esquentei\nEsquenta/Esquentou\nEsquentamos\nEsquentam/Esquentavam",
+      "printed": false
+    },
+    {
+      "term": "Help",
+      "defn": "Ajudar",
+      "comment": "Ajudo/Ajudei\nAjuda/Ajudou\nAjudamos\nAjudam/Ajudavam",
+      "printed": false
+    },
+    {
       "term": "Hit (object)",
       "defn": "Acertar",
       "comment": "Acerto/Acertei\nAcerta/Acertou\nAcertamos\nAcertam/Acertavam",
+      "printed": false
+    },
+    {
+      "term": "Hold",
+      "defn": "Segurar",
+      "comment": "Seguro/Segurei\nSegura/Segurou\nSeguramos\nSeguram/Seguravam",
+      "printed": false
+    },
+    {
+      "term": "Hold (attention/interest)",
+      "defn": "Prender (a atenção/o interesse)",
+      "comment": "Prendo/Prendi\nPrende/Prendeu\nPrendemos\nPrendem/Prendiam",
       "printed": false
     },
     {
@@ -375,9 +621,27 @@
       "printed": false
     },
     {
+      "term": "Imprison",
+      "defn": "Prender",
+      "comment": "[Prendo/Prendi\nPrende/Prendeu\nPrendemos\nPrendem/Prendiam]",
+      "printed": false
+    },
+    {
       "term": "Improve",
       "defn": "Melhorar",
       "comment": "Melhoro/Melhorei\nMelhora/Melhorou\nMelhoramos\nMelhoram/Melhoravam",
+      "printed": false
+    },
+    {
+      "term": "Involve",
+      "defn": "Envolver",
+      "comment": "Envolvo/Envolvi\nEnvolve/Envolveu\nEnvolvemos\nEnvolvem/Envolviam",
+      "printed": false
+    },
+    {
+      "term": "Iron (clothes)",
+      "defn": "Passar (roupa)",
+      "comment": "Passo/Passei\nPassa/Passou\nPassamos\nPassam/Passavam",
       "printed": false
     },
     {
@@ -429,6 +693,12 @@
       "printed": false
     },
     {
+      "term": "Lock",
+      "defn": "Trancar",
+      "comment": "Tranco/Tranquei\nTranca/Trancou\nTrancamos\nTrancam/Trancavam",
+      "printed": false
+    },
+    {
       "term": "Look (at)",
       "defn": "Olhar",
       "comment": "Olho/Olhei\nOlha/Olhou\nOlhamos\nOlham/Olhavam",
@@ -453,6 +723,12 @@
       "printed": false
     },
     {
+      "term": "Miss (emotionally)",
+      "defn": "Sentir saudade (de)",
+      "comment": "Sinto saudade/Senti saudade\nSente saudade/Sentiu saudade\nSentimos saudade\nSentem saudade/Sentiam saudade",
+      "printed": false
+    },
+    {
       "term": "Miss (object)",
       "defn": "Errar",
       "comment": "Erro/Errei\nErra/Errou\nErramos\nErram/Erravam",
@@ -460,8 +736,14 @@
     },
     {
       "term": "Miss (someone)",
-      "defn": "Sentir falta",
+      "defn": "Sentir falta (de)",
       "comment": "Sinto falta/Senti falta\nSente falta/Sentiu falta\nSentimos falta\nSentem falta/Sentiam falta",
+      "printed": false
+    },
+    {
+      "term": "Mix",
+      "defn": "Misturar",
+      "comment": "Misturo/Misturei\nMistura/Misturou\nMisturamos\nMisturam/Misturavam",
       "printed": false
     },
     {
@@ -471,15 +753,51 @@
       "printed": false
     },
     {
+      "term": "Mop / Scrub (floor)",
+      "defn": "Esfregar",
+      "comment": "Esfrego/Esfreguei\nEsfrega/Esfregou\nEsfregamos\nEsfregam/Esfregavam",
+      "printed": false
+    },
+    {
       "term": "Need",
       "defn": "Precisar",
       "comment": "Preciso/Precisei\nPrecisa/Precisou\nPrecisamos\nPrecisam/Precisavam",
       "printed": false
     },
     {
+      "term": "Open",
+      "defn": "Abrir",
+      "comment": "Abro/Abri\nAbre/Abriu\nAbrimos\nAbrem/Abriam",
+      "printed": false
+    },
+    {
+      "term": "Park (vehicle)",
+      "defn": "Estacionar",
+      "comment": "Estaciono/Estacionei\nEstaciona/Estacionou\nEstacionamos\nEstacionam/Estacionavam",
+      "printed": false
+    },
+    {
+      "term": "Pay",
+      "defn": "Pagar",
+      "comment": "Pago/Paguei\nPaga/Pagou\nPagamos\nPagam/Pagavam",
+      "printed": false
+    },
+    {
       "term": "Police",
       "defn": "Policiar",
       "comment": "Policio/Policiei\nPolicia/Policiou\nPoliciamos\nPoliciam/Policiavam",
+      "printed": false
+    },
+    {
+      "term": "Pour",
+      "defn": "Despejar",
+      "comment": "Despejo/Despejei\nDespeja/Despejou\nDespejamos\nDespejam/Despejavam",
+      "printed": false
+    },
+    {
+      "term": "Prohibit",
+      "defn": "Proibir",
+      "comment": "Proíbo/Proibi\nProíbe/Proibiu\nProibimos\nProíbem/Proibiam",
       "printed": false
     },
     {
@@ -492,6 +810,18 @@
       "term": "Put",
       "defn": "Pôr",
       "comment": "Ponho/Pus\nPõe/Pôs\nPomos\nPõem/Punham",
+      "printed": false
+    },
+    {
+      "term": "Recover (from)",
+      "defn": "Se recuperar (de)",
+      "comment": "Me recupero/Me recuperei\nSe recupera/Se recuperou\nNos recuperamos\nSe recuperamos/Se recuperavam",
+      "printed": false
+    },
+    {
+      "term": "Regret",
+      "defn": "Arrepender-se",
+      "comment": "Me arrependo/Me arrependi\nSe arrepende/Se arrependeu\nNos arrependemos\nSe arrependem/Se arrependiam",
       "printed": false
     },
     {
@@ -534,6 +864,12 @@
       "term": "Rest",
       "defn": "Descansar",
       "comment": "Descanso/Descansei\nDescansa/Descansou\nDescansamos\nDescansam/Descansavam",
+      "printed": false
+    },
+    {
+      "term": "Restrain",
+      "defn": "Conter",
+      "comment": "Contenho/Contive\nContém/Conteve\nContemos\nContêm/Continham",
       "printed": false
     },
     {
@@ -603,6 +939,12 @@
       "printed": false
     },
     {
+      "term": "Spill",
+      "defn": "Derramar",
+      "comment": "Derramo/Derramei\nDerrama/Derramou\nDerramamos\nDerramam/Derramavam",
+      "printed": false
+    },
+    {
       "term": "Start",
       "defn": "Começar",
       "comment": "Começo/Comecei\nComeça/Começou\nComeçamos\nComeçam/Começavam",
@@ -627,9 +969,21 @@
       "printed": false
     },
     {
+      "term": "Stir",
+      "defn": "Mexer",
+      "comment": "Mexo/Mexi\nMexe/Mexeu\nMexemos\nMexem/Mexiam",
+      "printed": false
+    },
+    {
       "term": "Stop",
       "defn": "Parar",
       "comment": "Paro/Parei\nPara/Parou\nParamos\nParam/Paravam",
+      "printed": false
+    },
+    {
+      "term": "Study",
+      "defn": "Estudar",
+      "comment": "Estudo/Estudei\nEstuda/Estudou\nEstudamos\nEstudam/Estudavam",
       "printed": false
     },
     {
@@ -651,6 +1005,12 @@
       "printed": false
     },
     {
+      "term": "Sweep",
+      "defn": "Varrer",
+      "comment": "Varro/Varri\nVarre/Varreu\nVarremos\nVarrem/Varriam",
+      "printed": false
+    },
+    {
       "term": "Take / Carry",
       "defn": "Levar",
       "comment": "Levo/Levei\nLeva/Levou\nLevamos\nLevam/Levavam",
@@ -666,6 +1026,12 @@
       "term": "Test",
       "defn": "Testar",
       "comment": "Testo/Testei\nTesta/Testou\nTestamos\nTestam/Testavam",
+      "printed": false
+    },
+    {
+      "term": "Thaw / Defrost",
+      "defn": "Descongelar",
+      "comment": "Descongelo/Descongelei\nDescongela/Descongelou\nDescongelamos\nDescongelam/Descongelavam",
       "printed": false
     },
     {
@@ -687,6 +1053,18 @@
       "printed": false
     },
     {
+      "term": "Trap",
+      "defn": "Encurralar",
+      "comment": "Encurralo/Encurralei\nEncurrala/Encurralou\nEncurralamos\nEncurralam/Encurralavam",
+      "printed": false
+    },
+    {
+      "term": "Trust",
+      "defn": "Confiar",
+      "comment": "Confio/Confiei\nConfia/Confiou\nConfiamos\nConfiam/Confiavam",
+      "printed": false
+    },
+    {
       "term": "Try",
       "defn": "Tentar",
       "comment": "Tento/Tentei\nTenta/Tentou\nTentamos\nTentam/Tentavam",
@@ -705,9 +1083,21 @@
       "printed": false
     },
     {
+      "term": "Unlock",
+      "defn": "Destrancar",
+      "comment": "Destranco/Destranquei\nDestranca/Destrancou\nDestrancamos\nDestrancam/Destrancavam",
+      "printed": false
+    },
+    {
       "term": "Use",
       "defn": "Usar",
       "comment": "Uso/Usei\nUsa/Usou\nUsamos\nUsam/Usavam",
+      "printed": false
+    },
+    {
+      "term": "Vacuum",
+      "defn": "Aspirar",
+      "comment": "Aspiro/Aspirei\nAspira/Aspirou\nAspiramos\nAspiram/Aspiravam",
       "printed": false
     },
     {
@@ -717,9 +1107,27 @@
       "printed": false
     },
     {
+      "term": "Wake up",
+      "defn": "Acordar",
+      "comment": "Acordo/Acordei\nAcorda/Acordou\nAcordamos\nAcordam/Acordavam",
+      "printed": false
+    },
+    {
       "term": "Want",
       "defn": "Querer",
       "comment": "Quero/Quis\nQuer/Quis\nQueremos\nQuerem/Queriam",
+      "printed": false
+    },
+    {
+      "term": "Wash",
+      "defn": "Lavar",
+      "comment": "Lavo/Lavei\nLava/Lavou\nLavamos\nLavam/Lavavam",
+      "printed": false
+    },
+    {
+      "term": "Waste",
+      "defn": "Desperdiçar",
+      "comment": "Desperdiço/Desperdicei\nDesperdiça/Desperdiçou\nDesperdiçamos\nDesperdiçam/Desperdiçavam",
       "printed": false
     },
     {
@@ -744,6 +1152,12 @@
       "term": "Work",
       "defn": "Trabalhar",
       "comment": "Trabalho/Trabalhei\nTrabalha/Trabalhou\nTrabalhamos\nTrabalham/Trabalhavam",
+      "printed": false
+    },
+    {
+      "term": "Worry (about)",
+      "defn": "Se preocupar (com)",
+      "comment": "Me preocupo/Me preocupei\nSe preocupa/Se preocupou\nNos preocupamos\nSe preocupam/Se preocupavam",
       "printed": false
     },
     {
