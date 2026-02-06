@@ -113,7 +113,7 @@
     {
       "term": "Care (about)",
       "defn": "Se importar (com)",
-      "comment": "Me importo/Me importei\nSe importa/Se importou\nNos importamos\nSe importam/Se importavam",
+      "comment": "Me importo/importei\nSe importa/importou\nNos importamos\nSe importam/importavam",
       "printed": false
     },
     {
@@ -293,7 +293,7 @@
     {
       "term": "Drop (let fall)",
       "defn": "Deixar cair",
-      "comment": "Deixo cair/Deixei cair\nDeixa cair/Deixou cair\nDeixamos cair\nDeixam cair/Deixavam cair",
+      "comment": "Deixo/Deixei cair\nDeixa/Deixou cair\nDeixamos cair\nDeixam/Deixavam cair",
       "printed": false
     },
     {
@@ -305,7 +305,7 @@
     {
       "term": "Dust",
       "defn": "Tirar o pó",
-      "comment": "Tiro o pó/Tirei o pó\nTira o pó/Tirou o pó\nTiramos o pó\nTiram o pó/Tiravam o pó",
+      "comment": "Tiro/Tirei o pó\nTira/Tirou o pó\nTiramos o pó\nTiram/Tiravam o pó",
       "printed": false
     },
     {
@@ -323,7 +323,7 @@
     {
       "term": "Engage",
       "defn": "Engajar-se (em)",
-      "comment": "Me engajo/Me engajei\nSe engaja/Se engajou\nNos engajamos\nSe engajam/Se engajavam",
+      "comment": "Me engajo/engajei\nSe engaja/engajou\nNos engajamos\nSe engajam/engajavam",
       "printed": false
     },
     {
@@ -389,7 +389,7 @@
     {
       "term": "Fail to / Stop doing",
       "defn": "Deixar de",
-      "comment": "Deixo de/Deixei de\nDeixa de/Deixou de\nDeixamos de\nDeixam de/Deixavam de",
+      "comment": "Deixo/Deixei de\nDeixa/Deixou de\nDeixamos de\nDeixam/Deixavam de",
       "printed": false
     },
     {
@@ -413,7 +413,7 @@
     {
       "term": "Fight  Struggle",
       "defn": "Lutar",
-      "comment": "Luto/Lutei\nLuta/Lutou\nLutamos\nLutam/Lutavam",
+      "comment": "[Luto/Lutei\nLuta/Lutou\nLutamos\nLutam/Lutavam]",
       "printed": false
     },
     {
@@ -545,7 +545,7 @@
     {
       "term": "Hang out / Go out with",
       "defn": "Sair com",
-      "comment": "Saio com/Saí com\nSai com/Saiu com\nSaímos com\nSaem com/Saíam com",
+      "comment": "Saio/Saí com\nSai/Saiu com\nSaímos com\nSaem/Saíam com",
       "printed": false
     },
     {
@@ -755,7 +755,7 @@
     {
       "term": "Miss (emotionally)",
       "defn": "Sentir saudade (de)",
-      "comment": "Sinto saudade/Senti saudade\nSente saudade/Sentiu saudade\nSentimos saudade\nSentem saudade/Sentiam saudade",
+      "comment": "Sinto/Senti saudade\nSente/Sentiu saudade\nSentimos saudade\nSentem/Sentiam saudade",
       "printed": false
     },
     {
@@ -767,7 +767,7 @@
     {
       "term": "Miss (someone)",
       "defn": "Sentir falta (de)",
-      "comment": "Sinto falta/Senti falta\nSente falta/Sentiu falta\nSentimos falta\nSentem falta/Sentiam falta",
+      "comment": "Sinto/Senti falta\nSente/Sentiu falta\nSentimos falta\nSentem/Sentiam falta",
       "printed": false
     },
     {
@@ -851,7 +851,7 @@
     {
       "term": "Recover (from)",
       "defn": "Se recuperar (de)",
-      "comment": "Me recupero/Me recuperei\nSe recupera/Se recuperou\nNos recuperamos\nSe recuperam/Se recuperavam",
+      "comment": "Me recupero/recuperei\nSe recupera/recuperou\nNos recuperamos\nSe recuperam/recuperavam",
       "printed": false
     },
     {
@@ -933,12 +933,6 @@
       "printed": false
     },
     {
-      "term": "Scrub (floor)",
-      "defn": "Esfregar",
-      "comment": "Esfrego/Esfreguei\nEsfrega/Esfregou\nEsfregamos\nEsfregam/Esfregavam",
-      "printed": false
-    },
-    {
       "term": "See",
       "defn": "Ver",
       "comment": "Vejo/Vi\nVê/Viu\nVemos\nVeem/Viam",
@@ -995,7 +989,7 @@
     {
       "term": "Start to / Begin to",
       "defn": "Passar a",
-      "comment": "Passo a/Passei a\nPassa a/Passou a\nPassamos a\nPassam a/Passavam a",
+      "comment": "Passo/Passei a\nPassa/Passou a\nPassamos a\nPassam/Passavam a",
       "printed": false
     },
     {
@@ -1031,7 +1025,13 @@
     {
       "term": "Succeed",
       "defn": "Ter sucesso",
-      "comment": "Tenho sucesso/Tive sucesso\nTem sucesso/Teve sucesso\nTemos sucesso\nTêm sucesso/Tinham sucesso",
+      "comment": "Tenho/Tive sucesso\nTem/Teve sucesso\nTemos sucesso\nTêm/Tinham sucesso",
+      "printed": false
+    },
+    {
+      "term": "Suffer (from)",
+      "defn": "Sofrer (de)",
+      "comment": "Sofro/Sofri\nSofre/Sofreu\nSofremos\nSofrem/Sofriam",
       "printed": false
     },
     {
@@ -1139,7 +1139,7 @@
     {
       "term": "Vacuum",
       "defn": "Passar o aspirador",
-      "comment": "Passo o aspirador/Passei o aspirador\nPassa o aspirador/Passou o aspirador\nPassamos o aspirador\nPassam o aspirador/Passavam o aspirador",
+      "comment": "Passo/Passei o aspirador\nPassa/Passou o aspirador\nPassamos o aspirador\nPassam/Passavam o aspirador",
       "printed": false
     },
     {
@@ -1199,7 +1199,7 @@
     {
       "term": "Worry (about)",
       "defn": "Se preocupar (com)",
-      "comment": "Me preocupo/Me preocupei\nSe preocupa/Se preocupou\nNos preocupamos\nSe preocupam/Se preocupavam",
+      "comment": "Me preocupo/preocupei\nSe preocupa/preocupou\nNos preocupamos\nSe preocupam/preocupavam",
       "printed": false
     },
     {
