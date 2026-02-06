@@ -195,6 +195,12 @@
       "printed": false
     },
     {
+      "term": "Date",
+      "defn": "Namorar (com)",
+      "comment": "Namoro/Namorei\nNamora/Namorou\nNamoramos\nNamoram/Namoravam",
+      "printed": false
+    },
+    {
       "term": "Deal with",
       "defn": "Lidar\n(com)",
       "comment": "Lido/Lidei\nLida/Lidou\nLidamos\nLidam/Lidavam",
@@ -744,6 +750,12 @@
       "term": "Love",
       "defn": "Amar",
       "comment": "Amo/Amei\nAma/Amou\nAmamos\nAmam/Amavam",
+      "printed": false
+    },
+    {
+      "term": "Marry",
+      "defn": "Casar (com)",
+      "comment": "Caso/Casei\nCasa/Casou\nCasamos\nCasam/Casavam",
       "printed": false
     },
     {

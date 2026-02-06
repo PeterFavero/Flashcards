@@ -7,25 +7,17 @@ Arrive	Chegar [Chego/Cheguei, Chega/Chegou, Chegamos, Chegam/Chegavam]
 Ask	Pedir [Peço/Pedi, Pede/Pediu, Pedimos, Pedem/Pediam]
 Attack	Atacar [Ataco/Ataquei, Ataca/Atacou, Atacamos, Atacam/Atacavam]
 Bake	Assar [Asso/Assei, Assa/Assou, Assamos, Assam/Assavam]
-Be
-(permanent)	Ser [Sou/Fui, É/Foi, Somos, São/Eram]
-Be
-(temporary)	Estar [Estou/Estive, Está/Esteve, Estamos, Estão/Estavam]
+Be (permanent)	Ser [Sou/Fui, É/Foi, Somos, São/Eram]
+Be (temporary)	Estar [Estou/Estive, Está/Esteve, Estamos, Estão/Estavam]
 Believe	Acreditar [Acredito/Acreditei, Acredita/Acreditou, Acreditamos, Acreditam/Acreditavam]
 Block	Bloquear [Bloqueio/Bloqueei, Bloqueia/Bloqueou, Bloqueamos, Bloqueiam/Bloqueavam]
 Boil	Ferver [Fervo/Fervi, Ferve/Ferveu, Fervemos, Fervem/Ferviam]
-Brake
-(vehicle)	Frear [Freio/Freei, Freia/Freou, Freamos, Freiam/Freavam]
+Brake (vehicle)	Frear [Freio/Freei, Freia/Freou, Freamos, Freiam/Freavam]
 Bring	Trazer [Trago/Trouxe, Traz/Trouxe, Trazemos, Trazem/Traziam]
-Brush
-(teeth/hair)	Escovar [Escovo/Escovei, Escova/Escovou, Escovamos, Escovam/Escovavam]
+Brush (teeth/hair)	Escovar [Escovo/Escovei, Escova/Escovou, Escovamos, Escovam/Escovavam]
 Call	Ligar [Ligo/Liguei, Liga/Ligou, Ligamos, Ligam/Ligavam]
-Care
-(about)	Se importar
-(com) [Me importo/importei, Se importa/importou, Nos importamos, Se importam/importavam]
-Care
-(for)	Cuidar
-(de) [Cuido/Cuidei, Cuida/Cuidou, Cuidamos, Cuidam/Cuidavam]
+Care (about)	Se importar (com) [Me importo/importei, Se importa/importou, Nos importamos, Se importam/importavam]
+Care (for)	Cuidar (de) [Cuido/Cuidei, Cuida/Cuidou, Cuidamos, Cuidam/Cuidavam]
 Catch	Pegar [Pego/Peguei, Pega/Pegou, Pegamos, Pegam/Pegavam]
 Change	Mudar [Mudo/Mudei, Muda/Mudou, Mudamos, Mudam/Mudavam]
 Choose	Escolher [Escolho/Escolhi, Escolhe/Escolheu, Escolhemos, Escolhem/Escolhiam]
@@ -36,11 +28,10 @@ Come	Vir [Venho/Vim, Vem/Veio, Vimos, Vêm/Vinham]
 Comfort	Consolar [Consolo/Consolei, Consola/Consolou, Consolamos, Consolam/Consolavam]
 Continue	Continuar [Continuo/Continuei, Continua/Continuou, Continuamos, Continuam/Continuavam]
 Cook	Cozinhar [Cozinho/Cozinhei, Cozinha/Cozinhou, Cozinhamos, Cozinham/Cozinhavam]
-Cool
-(down)	Esfriar [Esfrio/Esfriei, Esfria/Esfriou, Esfriamos, Esfriam/Esfriavam]
+Cool (down)	Esfriar [Esfrio/Esfriei, Esfria/Esfriou, Esfriamos, Esfriam/Esfriavam]
 Cut	Cortar [Corto/Cortei, Corta/Cortou, Cortamos, Cortam/Cortavam]
-Deal with	Lidar
-(com) [Lido/Lidei, Lida/Lidou, Lidamos, Lidam/Lidavam]
+Date	Namorar (com) [Namoro/Namorei, Namora/Namorou, Namoramos, Namoram/Namoravam]
+Deal with	Lidar (com) [Lido/Lidei, Lida/Lidou, Lidamos, Lidam/Lidavam]
 Decide	Decidir [Decido/Decidi, Decide/Decidiu, Decidimos, Decidem/Decidiam]
 Defeat	Derrotar [Derroto/Derrotei, Derrota/Derrotou, Derrotamos, Derrotam/Derrotavam]
 Defend	Defender [Defendo/Defendi, Defende/Defendeu, Defendemos, Defendem/Defendiam]
@@ -53,21 +44,16 @@ Dislike	Desgostar [Desgosto/Desgostei, Desgosta/Desgostou, Desgostamos, Desgosta
 Do / Make	Fazer [Faço/Fiz, Faz/Fez, Fazemos, Fazem/Faziam]
 Doubt	Duvidar [Duvido/Duvidei, Duvida/Duvidou, Duvidamos, Duvidam/Duvidavam]
 Drink	Beber [Bebo/Bebi, Bebe/Bebeu, Bebemos, Bebem/Bebiam]
-Drive
-(movement or concept)	Impulsionar [Impulsiono/Impulsionei, Impulsiona/Impulsionou, Impulsionamos, Impulsionam/Impulsionavam]
-Drive
-(vehicle)	Dirigir [Dirijo/Dirigi, Dirige/Dirigiu, Dirigimos, Dirigem/Dirigiam]
+Drive (movement or concept)	Impulsionar [Impulsiono/Impulsionei, Impulsiona/Impulsionou, Impulsionamos, Impulsionam/Impulsionavam]
+Drive (vehicle)	Dirigir [Dirijo/Dirigi, Dirige/Dirigiu, Dirigimos, Dirigem/Dirigiam]
 Drop	Derrubar [Derrubo/Derrubei, Derruba/Derrubou, Derrubamos, Derrubam/Derrubavam]
-Drop
-(let fall)	Deixar cair [Deixo/Deixei cair, Deixa/Deixou cair, Deixamos cair, Deixam/Deixavam cair]
+Drop (let fall)	Deixar cair [Deixo/Deixei cair, Deixa/Deixou cair, Deixamos cair, Deixam/Deixavam cair]
 Dry	Secar [Seco/Sequei, Seca/Secou, Secamos, Secam/Secavam]
 Dust	Tirar o pó [Tiro/Tirei o pó, Tira/Tirou o pó, Tiramos o pó, Tiram/Tiravam o pó]
 Eat	Comer [Como/Comi, Come/Comeu, Comemos, Comem/Comiam]
 Encourage	Incentivar [Incentivo/Incentivei, Incentiva/Incentivou, Incentivamos, Incentivam/Incentivavam]
-Engage	Engajar-se
-(em) [Me engajo/engajei, Se engaja/engajou, Nos engajamos, Se engajam/engajavam]
-Engage
-(audience/users)	Engajar [Engajo/Engajei, Engaja/Engajou, Engajamos, Engajam/Engajavam]
+Engage	Engajar-se (em) [Me engajo/engajei, Se engaja/engajou, Nos engajamos, Se engajam/engajavam]
+Engage (audience/users)	Engajar [Engajo/Engajei, Engaja/Engajou, Engajamos, Engajam/Engajavam]
 Enjoy	Curtir [Curto/Curti, Curte/Curtiu, Curtimos, Curtem/Curtiam]
 Enter	Entrar [Entro/Entrei, Entra/Entrou, Entramos, Entram/Entravam]
 Entertain	Entreter [Entretenho/Entretive, Entretém/Entreteve, Entretemos, Entretêm/Entretiam]
@@ -81,8 +67,7 @@ Fail to / Stop doing	Deixar de [Deixo/Deixei de, Deixa/Deixou de, Deixamos de, D
 Fasten / Arrest / Detain / Imprison	Prender [Prendo/Prendi, Prende/Prendeu, Prendemos, Prendem/Prendiam]
 Fear	Temer [Temo/Temi, Teme/Temeu, Tememos, Temem/Temiam]
 Fight	Lutar [Luto/Lutei, Luta/Lutou, Lutamos, Lutam/Lutavam]
-Fight
-(physical)	Brigar [Brigo/Briguei, Briga/Brigou, Brigamos, Brigam/Brigavam]
+Fight (physical)	Brigar [Brigo/Briguei, Briga/Brigou, Brigamos, Brigam/Brigavam]
 Fight  Struggle	Lutar [[Luto/Lutei, Luta/Lutou, Lutamos, Lutam/Lutavam]]
 Fight / Struggle	Lutar [Luto/Lutei, Luta/Lutou, Lutamos, Lutam/Lutavam]
 Find	Achar [Acho/Achei, Acha/Achou, Achamos, Acham/Achavam]
@@ -93,8 +78,7 @@ Follow	Seguir [Sigo/Segui, Segue/Seguiu, Seguimos, Seguem/Seguiam]
 Force	Forçar [Forço/Forcei, Força/Forçou, Forçamos, Forçam/Forçavam]
 Forget	Esquecer [Esqueço/Esqueci, Esquece/Esqueceu, Esquecemos, Esquecem/Esqueciam]
 Forgive	Perdoar [Perdoo/Perdoei, Perdoa/Perdoou, Perdoamos, Perdoam/Perdoavam]
-Free
-(something)	Libertar [Liberto/Libertei, Liberta/Libertou, Libertamos, Libertam/Libertavam]
+Free (something)	Libertar [Liberto/Libertei, Liberta/Libertou, Libertamos, Libertam/Libertavam]
 Freeze	Congelar [Congelo/Congelei, Congela/Congelou, Congelamos, Congelam/Congelavam]
 Fry	Fritar [Frito/Fritei, Frita/Fritou, Fritamos, Fritam/Fritavam]
 Fuck	Foder [Fodo/Fodi, Fode/Fodeu, Fodemos, Fodem/Fodiam]
@@ -102,30 +86,21 @@ Get / Obtain	Conseguir [Consigo/Consegui, Consegue/Conseguiu, Conseguimos, Conse
 Get up	Levantar-se [Me levanto/Me levantei, Se levanta/Se levantou, Nos levantamos, Se levantam/Se levantavam]
 Give	Dar [Dou/Dei, Dá/Deu, Damos, Dão/Davam]
 Go	Ir [Vou/Fui, Vai/Foi, Vamos, Vão/Iam]
-Ground
-(movement or concept)	Aterrar [Aterro/Aterrei, Aterra/Aterrou, Aterramos, Aterram/Aterravam]
+Ground (movement or concept)	Aterrar [Aterro/Aterrei, Aterra/Aterrou, Aterramos, Aterram/Aterravam]
 Guess / Imagine	Imaginar [Imagino/Imaginei, Imagina/Imaginou, Imaginamos, Imaginam/Imaginavam]
-Hang
-(clothes)	Pendurar [Penduro/Pendurei, Pendura/Pendurou, Penduramos, Penduram/Penduravam]
-Hang out / Go out
-(with)	Sair (com) [Saio/Saí, Sai/Saiu, Saímos, Saem/Saíam]
+Hang (clothes)	Pendurar [Penduro/Pendurei, Pendura/Pendurou, Penduramos, Penduram/Penduravam]
+Hang out / Go out (with)	Sair (com) [Saio/Saí, Sai/Saiu, Saímos, Saem/Saíam]
 Hate	Odiar [Odeio/Odiei, Odeia/Odiou, Odiamos, Odeiam/Odiavam]
 Have	Ter [Tenho/Tive, Tem/Teve, Temos, Têm/Tinham]
 Have dinner	Jantar [Janto/Jantei, Janta/Jantou, Jantamos, Jantam/Jantavam]
 Have lunch	Almoçar [Almoço/Almocei, Almoça/Almoçou, Almoçamos, Almoçam/Almoçavam]
-Have sex
-(colloquial)	Transar [Transo/Transei, Transa/Transou, Transamos, Transam/Transavam]
+Have sex (colloquial)	Transar [Transo/Transei, Transa/Transou, Transamos, Transam/Transavam]
 Hear / Listen to	Ouvir [Ouço/Ouvi, Ouve/Ouviu, Ouvimos, Ouvem/Ouviam]
-Heat
-(up)	Esquentar [Esquento/Esquentei, Esquenta/Esquentou, Esquentamos, Esquentam/Esquentavam]
+Heat (up)	Esquentar [Esquento/Esquentei, Esquenta/Esquentou, Esquentamos, Esquentam/Esquentavam]
 Help	Ajudar [Ajudo/Ajudei, Ajuda/Ajudou, Ajudamos, Ajudam/Ajudavam]
-Hit
-(object)	Bater
-(em) [Bato/Bati, Bate/Bateu, Batemos, Batem/Batiam]
+Hit (object)	Bater (em) [Bato/Bati, Bate/Bateu, Batemos, Batem/Batiam]
 Hold	Segurar [Seguro/Segurei, Segura/Segurou, Seguramos, Seguram/Seguravam]
-Hold
-(attention/interest)	Prender
-(a atenção/o interesse) [Prendo/Prendi, Prende/Prendeu, Prendemos, Prendem/Prendiam]
+Hold (attention/interest)	Prender (a atenção/o interesse) [Prendo/Prendi, Prende/Prendeu, Prendemos, Prendem/Prendiam]
 Hope	Esperar [Espero/Esperei, Espera/Esperou, Esperamos, Esperam/Esperavam]
 Hurt	Machucar [Machuco/Machuquei, Machuca/Machucou, Machucamos, Machucam/Machucavam]
 Hypothesize	Hipotetizar [Hipotetizo/Hipotetizei, Hipotetiza/Hipotetizou, Hipotetizamos, Hipotetizam/Hipotetizavam]
@@ -134,56 +109,39 @@ Imagine	Imaginar [Imagino/Imaginei, Imagina/Imaginou, Imaginamos, Imaginam/Imagi
 Imprison	Encarcerar [Encarcero/Encarcerei, Encarcera/Encarcerou, Encarceramos, Encarceram/Encarceravam]
 Improve	Melhorar [Melhoro/Melhorei, Melhora/Melhorou, Melhoramos, Melhoram/Melhoravam]
 Involve	Envolver [Envolvo/Envolvi, Envolve/Envolveu, Envolvemos, Envolvem/Envolviam]
-Iron
-(clothes)	Passar
-(roupa) [Passo/Passei, Passa/Passou, Passamos, Passam/Passavam]
+Iron (clothes)	Passar (roupa) [Passo/Passei, Passa/Passou, Passamos, Passam/Passavam]
 Keep	Manter [Mantenho/Mantive, Mantém/Manteve, Mantemos, Mantêm/Mantinham]
 Kill	Matar [Mato/Matei, Mata/Matou, Matamos, Matam/Matavam]
-Know
-(fact)	Saber [Sei/Soube, Sabe/Soube, Sabemos, Sabem/Sabiam]
-Know
-(person/place)	Conhecer [Conheço/Conheci, Conhece/Conheceu, Conhecemos, Conhecem/Conheciam]
-Land
-(aircraft)	Aterrar [Aterro/Aterrei, Aterra/Aterrou, Aterramos, Aterram/Aterravam]
+Know (fact)	Saber [Sei/Soube, Sabe/Soube, Sabemos, Sabem/Sabiam]
+Know (person/place)	Conhecer [Conheço/Conheci, Conhece/Conheceu, Conhecemos, Conhecem/Conheciam]
+Land (aircraft)	Aterrar [Aterro/Aterrei, Aterra/Aterrou, Aterramos, Aterram/Aterravam]
 Learn	Aprender [Aprendo/Aprendi, Aprende/Aprendeu, Aprendemos, Aprendem/Aprendiam]
-Leave
-(place)	Sair [Saio/Saí, Sai/Saiu, Saímos, Saem/Saíam]
-Leave
-(something behind)	Deixar [Deixo/Deixei, Deixa/Deixou, Deixamos, Deixam/Deixavam]
+Leave (place)	Sair [Saio/Saí, Sai/Saiu, Saímos, Saem/Saíam]
+Leave (something behind)	Deixar [Deixo/Deixei, Deixa/Deixou, Deixamos, Deixam/Deixavam]
 Like	Gostar [Gosto/Gostei, Gosta/Gostou, Gostamos, Gostam/Gostavam]
 Lock	Trancar [Tranco/Tranquei, Tranca/Trancou, Trancamos, Trancam/Trancavam]
-Look
-(at)	Olhar [Olho/Olhei, Olha/Olhou, Olhamos, Olham/Olhavam]
+Look (at)	Olhar [Olho/Olhei, Olha/Olhou, Olhamos, Olham/Olhavam]
 Lose	Perder [Perco/Perdi, Perde/Perdeu, Perdemos, Perdem/Perdiam]
 Love	Amar [Amo/Amei, Ama/Amou, Amamos, Amam/Amavam]
+Marry	Casar (com) [Caso/Casei, Casa/Casou, Casamos, Casam/Casavam]
 Meet	Encontrar [Encontro/Encontrei, Encontra/Encontrou, Encontramos, Encontram/Encontravam]
-Miss
-(emotionally)	Sentir saudade
-(de) [Sinto/Senti saudade, Sente/Sentiu saudade, Sentimos saudade, Sentem/Sentiam saudade]
-Miss
-(object)	Errar [Erro/Errei, Erra/Errou, Erramos, Erram/Erravam]
-Miss
-(someone)	Sentir falta
-(de) [Sinto/Senti falta, Sente/Sentiu falta, Sentimos falta, Sentem/Sentiam falta]
+Miss (emotionally)	Sentir saudade (de) [Sinto/Senti saudade, Sente/Sentiu saudade, Sentimos saudade, Sentem/Sentiam saudade]
+Miss (object)	Errar [Erro/Errei, Erra/Errou, Erramos, Erram/Erravam]
+Miss (someone)	Sentir falta (de) [Sinto/Senti falta, Sente/Sentiu falta, Sentimos falta, Sentem/Sentiam falta]
 Mix	Misturar [Misturo/Misturei, Mistura/Misturou, Misturamos, Misturam/Misturavam]
 Monitor	Monitorar [Monitoro/Monitorei, Monitora/Monitorou, Monitoramos, Monitoram/Monitoravam]
-Mop / Scrub
-(floor)	Esfregar [Esfrego/Esfreguei, Esfrega/Esfregou, Esfregamos, Esfregam/Esfregavam]
+Mop / Scrub (floor)	Esfregar [Esfrego/Esfreguei, Esfrega/Esfregou, Esfregamos, Esfregam/Esfregavam]
 Need	Precisar [Preciso/Precisei, Precisa/Precisou, Precisamos, Precisam/Precisavam]
 Open	Abrir [Abro/Abri, Abre/Abriu, Abrimos, Abrem/Abriam]
-Park
-(vehicle)	Estacionar [Estaciono/Estacionei, Estaciona/Estacionou, Estacionamos, Estacionam/Estacionavam]
+Park (vehicle)	Estacionar [Estaciono/Estacionei, Estaciona/Estacionou, Estacionamos, Estacionam/Estacionavam]
 Pay	Pagar [Pago/Paguei, Paga/Pagou, Pagamos, Pagam/Pagavam]
 Police	Fiscalizar [Fiscalizo/Fiscalizei, Fiscaliza/Fiscalizou, Fiscalizamos, Fiscalizam/Fiscalizavam]
 Pour	Despejar [Despejo/Despejei, Despeja/Despejou, Despejamos, Despejam/Despejavam]
-Pour
-(drink)	Servir [Sirvo/Servi, Serve/Serviu, Servimos, Servem/Serviam]
+Pour (drink)	Servir [Sirvo/Servi, Serve/Serviu, Servimos, Servem/Serviam]
 Prohibit	Proibir [Proíbo/Proibi, Proíbe/Proibiu, Proibimos, Proíbem/Proibiam]
 Protect	Proteger [Protejo/Protegi, Protege/Protegeu, Protegemos, Protegem/Protegiam]
 Put	Pôr [Ponho/Pus, Põe/Pôs, Pomos, Põem/Punham]
-Recover
-(from)	Se recuperar
-(de) [Me recupero/recuperei, Se recupera/recuperou, Nos recuperamos, Se recuperam/recuperavam]
+Recover (from)	Se recuperar (de) [Me recupero/recuperei, Se recupera/recuperou, Nos recuperamos, Se recuperam/recuperavam]
 Regret	Arrepender-se [Me arrependo/Me arrependi, Se arrepende/Se arrependeu, Nos arrependemos, Se arrependem/Se arrependiam]
 Relax	Relaxar [Relaxo/Relaxei, Relaxa/Relaxou, Relaxamos, Relaxam/Relaxavam]
 Remember	Lembrar [Lembro/Lembrei, Lembra/Lembrou, Lembramos, Lembram/Lembravam]
@@ -199,8 +157,7 @@ Say / Tell	Dizer [Digo/Disse, Diz/Disse, Dizemos, Dizem/Diziam]
 Score	Marcar [Marco/Marquei, Marca/Marcou, Marcamos, Marcam/Marcavam]
 See	Ver [Vejo/Vi, Vê/Viu, Vemos, Veem/Viam]
 Seem	Parecer [Pareço/Pareci, Parece/Pareceu, Parecemos, Parecem/Pareciam]
-Shoot
-(firearm)	Atirar [Atiro/Atirei, Atira/Atirou, Atiramos, Atiram/Atiravam]
+Shoot (firearm)	Atirar [Atiro/Atirei, Atira/Atirou, Atiramos, Atiram/Atiravam]
 Sleep	Dormir [Durmo/Dormi, Dorme/Dormiu, Dormimos, Dormem/Dormiam]
 Smoke	Fumar [Fumo/Fumei, Fuma/Fumou, Fumamos, Fumam/Fumavam]
 Snack	Lanchar [Lancho/Lanchei, Lancha/Lanchou, Lanchamos, Lancham/Lanchavam]
@@ -214,9 +171,7 @@ Stir	Mexer [Mexo/Mexi, Mexe/Mexeu, Mexemos, Mexem/Mexiam]
 Stop	Parar [Paro/Parei, Para/Parou, Paramos, Param/Paravam]
 Study	Estudar [Estudo/Estudei, Estuda/Estudou, Estudamos, Estudam/Estudavam]
 Succeed	Ter sucesso [Tenho/Tive sucesso, Tem/Teve sucesso, Temos sucesso, Têm/Tinham sucesso]
-Suffer
-(from)	Sofrer
-(de) [Sofro/Sofri, Sofre/Sofreu, Sofremos, Sofrem/Sofriam]
+Suffer (from)	Sofrer (de) [Sofro/Sofri, Sofre/Sofreu, Sofremos, Sofrem/Sofriam]
 Suppose	Supor [Suponho/Supus, Supõe/Supôs, Supomos, Supõem/Supunham]
 Survive	Sobreviver [Sobrevivo/Sobrevivi, Sobrevive/Sobreviveu, Sobrevivemos, Sobrevivem/Sobreviviam]
 Sweep	Varrer [Varro/Varri, Varre/Varreu, Varremos, Varrem/Varriam]
@@ -235,8 +190,7 @@ Understand	Entender [Entendo/Entendi, Entende/Entendeu, Entendemos, Entendem/Ent
 Unlock	Destrancar [Destranco/Destranquei, Destranca/Destrancou, Destrancamos, Destrancam/Destrancavam]
 Use	Usar [Uso/Usei, Usa/Usou, Usamos, Usam/Usavam]
 Vacuum	Passar o aspirador [Passo/Passei o aspirador, Passa/Passou o aspirador, Passamos o aspirador, Passam/Passavam o aspirador]
-Wait
-(for)	Esperar [Espero/Esperei, Espera/Esperou, Esperamos, Esperam/Esperavam]
+Wait (for)	Esperar [Espero/Esperei, Espera/Esperou, Esperamos, Esperam/Esperavam]
 Wake up	Acordar [Acordo/Acordei, Acorda/Acordou, Acordamos, Acordam/Acordavam]
 Want	Querer [Quero/Quis, Quer/Quis, Queremos, Querem/Queriam]
 Wash	Lavar [Lavo/Lavei, Lava/Lavou, Lavamos, Lavam/Lavavam]
@@ -245,8 +199,6 @@ Watch	Assistir [Assisto/Assisti, Assiste/Assistiu, Assistimos, Assistem/Assistia
 Whisper	Sussurrar [Sussurro/Sussurrei, Sussurra/Sussurrou, Sussurramos, Sussurram/Sussurravam]
 Win	Ganhar [Ganho/Ganhei, Ganha/Ganhou, Ganhamos, Ganham/Ganhavam]
 Work	Trabalhar [Trabalho/Trabalhei, Trabalha/Trabalhou, Trabalhamos, Trabalham/Trabalhavam]
-Worry
-(about)	Se preocupar
-(com) [Me preocupo/preocupei, Se preocupa/preocupou, Nos preocupamos, Se preocupam/preocupavam]
+Worry (about)	Se preocupar (com) [Me preocupo/preocupei, Se preocupa/preocupou, Nos preocupamos, Se preocupam/preocupavam]
 Worsen	Piorar [Pioro/Piorei, Piora/Piorou, Pioramos, Pioram/Pioravam]
 Yell	Gritar [Grito/Gritei, Grita/Gritou, Gritamos, Gritam/Gritavam]
