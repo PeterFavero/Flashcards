@@ -196,7 +196,7 @@
     },
     {
       "term": "Date",
-      "defn": "Namorar (com)",
+      "defn": "Namorar\n(com)",
       "comment": "Namoro/Namorei\nNamora/Namorou\nNamoramos\nNamoram/Namoravam",
       "printed": false
     },
@@ -550,7 +550,7 @@
     },
     {
       "term": "Hang out / Go out\n(with)",
-      "defn": "Sair (com)",
+      "defn": "Sair\n(com)",
       "comment": "Saio/Saí\nSai/Saiu\nSaímos\nSaem/Saíam",
       "printed": false
     },
@@ -754,7 +754,7 @@
     },
     {
       "term": "Marry",
-      "defn": "Casar (com)",
+      "defn": "Casar\n(com)",
       "comment": "Caso/Casei\nCasa/Casou\nCasamos\nCasam/Casavam",
       "printed": false
     },
