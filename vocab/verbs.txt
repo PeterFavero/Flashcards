@@ -135,6 +135,7 @@ Need	Precisar [Preciso/Precisei, Precisa/Precisou, Precisamos, Precisam/Precisav
 Open	Abrir [Abro/Abri, Abre/Abriu, Abrimos, Abrem/Abriam]
 Park (vehicle)	Estacionar [Estaciono/Estacionei, Estaciona/Estacionou, Estacionamos, Estacionam/Estacionavam]
 Pay	Pagar [Pago/Paguei, Paga/Pagou, Pagamos, Pagam/Pagavam]
+Play / Joke (with)	Brincar (com) [Brinco/Brinquei, Brinca/Brincou, Brincamos, Brincam/Brincavam]
 Police	Fiscalizar [Fiscalizo/Fiscalizei, Fiscaliza/Fiscalizou, Fiscalizamos, Fiscalizam/Fiscalizavam]
 Pour	Despejar [Despejo/Despejei, Despeja/Despejou, Despejamos, Despejam/Despejavam]
 Pour (drink)	Servir [Sirvo/Servi, Serve/Serviu, Servimos, Servem/Serviam]
