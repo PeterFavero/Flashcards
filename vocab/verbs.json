@@ -969,6 +969,18 @@
       "printed": false
     },
     {
+      "term": "Send (informal)",
+      "defn": "Mandar",
+      "comment": "Mando/Mandei\nManda/Mandou\nMandamos\nMandam/Mandavam",
+      "printed": false
+    },
+    {
+      "term": "Send / Submit (formal)",
+      "defn": "Enviar",
+      "comment": "Envio/Enviei\nEnvia/Enviou\nEnviamos\nEnviam/Enviavam",
+      "printed": false
+    },
+    {
       "term": "Shoot\n(firearm)",
       "defn": "Atirar",
       "comment": "Atiro/Atirei\nAtira/Atirou\nAtiramos\nAtiram/Atiravam",
