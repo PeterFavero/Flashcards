@@ -43,6 +43,7 @@ Disappoint	Decepcionar [Decepciono/Decepcionei, Decepciona/Decepcionou, Decepcio
 Dislike	Desgostar [Desgosto/Desgostei, Desgosta/Desgostou, Desgostamos, Desgostam/Desgostavam]
 Do / Make	Fazer [Faço/Fiz, Faz/Fez, Fazemos, Fazem/Faziam]
 Doubt	Duvidar [Duvido/Duvidei, Duvida/Duvidou, Duvidamos, Duvidam/Duvidavam]
+Dream	Sonhar (com) [Sonho/Sonhei, Sonha/Sonhou, Sonhamos, Sonham/Sonhavam]
 Drink	Beber [Bebo/Bebi, Bebe/Bebeu, Bebemos, Bebem/Bebiam]
 Drive (movement or concept)	Impulsionar [Impulsiono/Impulsionei, Impulsiona/Impulsionou, Impulsionamos, Impulsionam/Impulsionavam]
 Drive (vehicle)	Dirigir [Dirijo/Dirigi, Dirige/Dirigiu, Dirigimos, Dirigem/Dirigiam]
