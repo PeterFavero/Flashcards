@@ -57,13 +57,13 @@
       "printed": false
     },
     {
-      "term": "Be (permanent)",
+      "term": "Be\n(permanent)",
       "defn": "Ser",
       "comment": "Sou/Fui\nÉ/Foi\nSomos\nSão/Eram",
       "printed": false
     },
     {
-      "term": "Be (temporary)",
+      "term": "Be\n(temporary)",
       "defn": "Estar",
       "comment": "Estou/Estive\nEstá/Esteve\nEstamos\nEstão/Estavam",
       "printed": false
@@ -87,7 +87,7 @@
       "printed": false
     },
     {
-      "term": "Brake (vehicle)",
+      "term": "Brake\n(vehicle)",
       "defn": "Frear",
       "comment": "Freio/Freei\nFreia/Freou\nFreamos\nFreiam/Freavam",
       "printed": false
@@ -99,7 +99,7 @@
       "printed": false
     },
     {
-      "term": "Brush (teeth/hair)",
+      "term": "Brush\n(teeth/hair)",
       "defn": "Escovar",
       "comment": "Escovo/Escovei\nEscova/Escovou\nEscovamos\nEscovam/Escovavam",
       "printed": false
@@ -111,14 +111,14 @@
       "printed": false
     },
     {
-      "term": "Care (about)",
-      "defn": "Se importar (com)",
+      "term": "Care\n(about)",
+      "defn": "Se importar\n(com)",
       "comment": "Me importo/importei\nSe importa/importou\nNos importamos\nSe importam/importavam",
       "printed": false
     },
     {
-      "term": "Care (for)",
-      "defn": "Cuidar (de)",
+      "term": "Care\n(for)",
+      "defn": "Cuidar\n(de)",
       "comment": "Cuido/Cuidei\nCuida/Cuidou\nCuidamos\nCuidam/Cuidavam",
       "printed": false
     },
@@ -183,7 +183,7 @@
       "printed": false
     },
     {
-      "term": "Cool (down)",
+      "term": "Cool\n(down)",
       "defn": "Esfriar",
       "comment": "Esfrio/Esfriei\nEsfria/Esfriou\nEsfriamos\nEsfriam/Esfriavam",
       "printed": false
@@ -196,7 +196,7 @@
     },
     {
       "term": "Deal with",
-      "defn": "Lidar (com)",
+      "defn": "Lidar\n(com)",
       "comment": "Lido/Lidei\nLida/Lidou\nLidamos\nLidam/Lidavam",
       "printed": false
     },
@@ -273,13 +273,13 @@
       "printed": false
     },
     {
-      "term": "Drive (movement or concept)",
+      "term": "Drive\n(movement or concept)",
       "defn": "Impulsionar",
       "comment": "Impulsiono/Impulsionei\nImpulsiona/Impulsionou\nImpulsionamos\nImpulsionam/Impulsionavam",
       "printed": false
     },
     {
-      "term": "Drive (vehicle)",
+      "term": "Drive\n(vehicle)",
       "defn": "Dirigir",
       "comment": "Dirijo/Dirigi\nDirige/Dirigiu\nDirigimos\nDirigem/Dirigiam",
       "printed": false
@@ -291,7 +291,7 @@
       "printed": false
     },
     {
-      "term": "Drop (let fall)",
+      "term": "Drop\n(let fall)",
       "defn": "Deixar cair",
       "comment": "Deixo/Deixei cair\nDeixa/Deixou cair\nDeixamos cair\nDeixam/Deixavam cair",
       "printed": false
@@ -322,12 +322,12 @@
     },
     {
       "term": "Engage",
-      "defn": "Engajar-se (em)",
+      "defn": "Engajar-se\n(em)",
       "comment": "Me engajo/engajei\nSe engaja/engajou\nNos engajamos\nSe engajam/engajavam",
       "printed": false
     },
     {
-      "term": "Engage (audience/users)",
+      "term": "Engage\n(audience/users)",
       "defn": "Engajar",
       "comment": "Engajo/Engajei\nEngaja/Engajou\nEngajamos\nEngajam/Engajavam",
       "printed": false
@@ -411,15 +411,15 @@
       "printed": false
     },
     {
-      "term": "Fight  Struggle",
-      "defn": "Lutar",
-      "comment": "[Luto/Lutei\nLuta/Lutou\nLutamos\nLutam/Lutavam]",
+      "term": "Fight\n(physical)",
+      "defn": "Brigar",
+      "comment": "Brigo/Briguei\nBriga/Brigou\nBrigamos\nBrigam/Brigavam",
       "printed": false
     },
     {
-      "term": "Fight (physical)",
-      "defn": "Brigar",
-      "comment": "Brigo/Briguei\nBriga/Brigou\nBrigamos\nBrigam/Brigavam",
+      "term": "Fight  Struggle",
+      "defn": "Lutar",
+      "comment": "[Luto/Lutei\nLuta/Lutou\nLutamos\nLutam/Lutavam]",
       "printed": false
     },
     {
@@ -477,7 +477,7 @@
       "printed": false
     },
     {
-      "term": "Free (something)",
+      "term": "Free\n(something)",
       "defn": "Libertar",
       "comment": "Liberto/Libertei\nLiberta/Libertou\nLibertamos\nLibertam/Libertavam",
       "printed": false
@@ -525,7 +525,7 @@
       "printed": false
     },
     {
-      "term": "Ground (movement or concept)",
+      "term": "Ground\n(movement or concept)",
       "defn": "Aterrar",
       "comment": "Aterro/Aterrei\nAterra/Aterrou\nAterramos\nAterram/Aterravam",
       "printed": false
@@ -537,15 +537,15 @@
       "printed": false
     },
     {
-      "term": "Hang (clothes)",
+      "term": "Hang\n(clothes)",
       "defn": "Pendurar",
       "comment": "Penduro/Pendurei\nPendura/Pendurou\nPenduramos\nPenduram/Penduravam",
       "printed": false
     },
     {
-      "term": "Hang out / Go out with",
-      "defn": "Sair com",
-      "comment": "Saio/Saí com\nSai/Saiu com\nSaímos com\nSaem/Saíam com",
+      "term": "Hang out / Go out\n(with)",
+      "defn": "Sair (com)",
+      "comment": "Saio/Saí\nSai/Saiu\nSaímos\nSaem/Saíam",
       "printed": false
     },
     {
@@ -573,7 +573,7 @@
       "printed": false
     },
     {
-      "term": "Have sex (colloquial)",
+      "term": "Have sex\n(colloquial)",
       "defn": "Transar",
       "comment": "Transo/Transei\nTransa/Transou\nTransamos\nTransam/Transavam",
       "printed": false
@@ -585,7 +585,7 @@
       "printed": false
     },
     {
-      "term": "Heat (up)",
+      "term": "Heat\n(up)",
       "defn": "Esquentar",
       "comment": "Esquento/Esquentei\nEsquenta/Esquentou\nEsquentamos\nEsquentam/Esquentavam",
       "printed": false
@@ -597,8 +597,8 @@
       "printed": false
     },
     {
-      "term": "Hit (object)",
-      "defn": "Bater (em)",
+      "term": "Hit\n(object)",
+      "defn": "Bater\n(em)",
       "comment": "Bato/Bati\nBate/Bateu\nBatemos\nBatem/Batiam",
       "printed": false
     },
@@ -609,8 +609,8 @@
       "printed": false
     },
     {
-      "term": "Hold (attention/interest)",
-      "defn": "Prender (a atenção/o interesse)",
+      "term": "Hold\n(attention/interest)",
+      "defn": "Prender\n(a atenção/o interesse)",
       "comment": "Prendo/Prendi\nPrende/Prendeu\nPrendemos\nPrendem/Prendiam",
       "printed": false
     },
@@ -663,8 +663,8 @@
       "printed": false
     },
     {
-      "term": "Iron (clothes)",
-      "defn": "Passar (roupa)",
+      "term": "Iron\n(clothes)",
+      "defn": "Passar\n(roupa)",
       "comment": "Passo/Passei\nPassa/Passou\nPassamos\nPassam/Passavam",
       "printed": false
     },
@@ -681,19 +681,19 @@
       "printed": false
     },
     {
-      "term": "Know (fact)",
+      "term": "Know\n(fact)",
       "defn": "Saber",
       "comment": "Sei/Soube\nSabe/Soube\nSabemos\nSabem/Sabiam",
       "printed": false
     },
     {
-      "term": "Know (person/place)",
+      "term": "Know\n(person/place)",
       "defn": "Conhecer",
       "comment": "Conheço/Conheci\nConhece/Conheceu\nConhecemos\nConhecem/Conheciam",
       "printed": false
     },
     {
-      "term": "Land (aircraft)",
+      "term": "Land\n(aircraft)",
       "defn": "Aterrar",
       "comment": "Aterro/Aterrei\nAterra/Aterrou\nAterramos\nAterram/Aterravam",
       "printed": false
@@ -705,13 +705,13 @@
       "printed": false
     },
     {
-      "term": "Leave (place)",
+      "term": "Leave\n(place)",
       "defn": "Sair",
       "comment": "Saio/Saí\nSai/Saiu\nSaímos\nSaem/Saíam",
       "printed": false
     },
     {
-      "term": "Leave (something behind)",
+      "term": "Leave\n(something behind)",
       "defn": "Deixar",
       "comment": "Deixo/Deixei\nDeixa/Deixou\nDeixamos\nDeixam/Deixavam",
       "printed": false
@@ -729,7 +729,7 @@
       "printed": false
     },
     {
-      "term": "Look (at)",
+      "term": "Look\n(at)",
       "defn": "Olhar",
       "comment": "Olho/Olhei\nOlha/Olhou\nOlhamos\nOlham/Olhavam",
       "printed": false
@@ -753,20 +753,20 @@
       "printed": false
     },
     {
-      "term": "Miss (emotionally)",
-      "defn": "Sentir saudade (de)",
+      "term": "Miss\n(emotionally)",
+      "defn": "Sentir saudade\n(de)",
       "comment": "Sinto/Senti saudade\nSente/Sentiu saudade\nSentimos saudade\nSentem/Sentiam saudade",
       "printed": false
     },
     {
-      "term": "Miss (object)",
+      "term": "Miss\n(object)",
       "defn": "Errar",
       "comment": "Erro/Errei\nErra/Errou\nErramos\nErram/Erravam",
       "printed": false
     },
     {
-      "term": "Miss (someone)",
-      "defn": "Sentir falta (de)",
+      "term": "Miss\n(someone)",
+      "defn": "Sentir falta\n(de)",
       "comment": "Sinto/Senti falta\nSente/Sentiu falta\nSentimos falta\nSentem/Sentiam falta",
       "printed": false
     },
@@ -783,7 +783,7 @@
       "printed": false
     },
     {
-      "term": "Mop / Scrub (floor)",
+      "term": "Mop / Scrub\n(floor)",
       "defn": "Esfregar",
       "comment": "Esfrego/Esfreguei\nEsfrega/Esfregou\nEsfregamos\nEsfregam/Esfregavam",
       "printed": false
@@ -801,7 +801,7 @@
       "printed": false
     },
     {
-      "term": "Park (vehicle)",
+      "term": "Park\n(vehicle)",
       "defn": "Estacionar",
       "comment": "Estaciono/Estacionei\nEstaciona/Estacionou\nEstacionamos\nEstacionam/Estacionavam",
       "printed": false
@@ -825,7 +825,7 @@
       "printed": false
     },
     {
-      "term": "Pour (drink)",
+      "term": "Pour\n(drink)",
       "defn": "Servir",
       "comment": "Sirvo/Servi\nServe/Serviu\nServimos\nServem/Serviam",
       "printed": false
@@ -849,8 +849,8 @@
       "printed": false
     },
     {
-      "term": "Recover (from)",
-      "defn": "Se recuperar (de)",
+      "term": "Recover\n(from)",
+      "defn": "Se recuperar\n(de)",
       "comment": "Me recupero/recuperei\nSe recupera/recuperou\nNos recuperamos\nSe recuperam/recuperavam",
       "printed": false
     },
@@ -945,7 +945,7 @@
       "printed": false
     },
     {
-      "term": "Shoot (firearm)",
+      "term": "Shoot\n(firearm)",
       "defn": "Atirar",
       "comment": "Atiro/Atirei\nAtira/Atirou\nAtiramos\nAtiram/Atiravam",
       "printed": false
@@ -1029,8 +1029,8 @@
       "printed": false
     },
     {
-      "term": "Suffer (from)",
-      "defn": "Sofrer (de)",
+      "term": "Suffer\n(from)",
+      "defn": "Sofrer\n(de)",
       "comment": "Sofro/Sofri\nSofre/Sofreu\nSofremos\nSofrem/Sofriam",
       "printed": false
     },
@@ -1143,7 +1143,7 @@
       "printed": false
     },
     {
-      "term": "Wait (for)",
+      "term": "Wait\n(for)",
       "defn": "Esperar",
       "comment": "Espero/Esperei\nEspera/Esperou\nEsperamos\nEsperam/Esperavam",
       "printed": false
@@ -1197,8 +1197,8 @@
       "printed": false
     },
     {
-      "term": "Worry (about)",
-      "defn": "Se preocupar (com)",
+      "term": "Worry\n(about)",
+      "defn": "Se preocupar\n(com)",
       "comment": "Me preocupo/preocupei\nSe preocupa/preocupou\nNos preocupamos\nSe preocupam/preocupavam",
       "printed": false
     },
